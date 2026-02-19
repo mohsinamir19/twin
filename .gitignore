@@ -1,9 +1,41 @@
-.env
-D:\lm ops\project\twin\backend\.env
-D:\lm ops\project\twin\week2
-day1.md
-day2.md
-day3.md
-day4.md 
-day5.md
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate.d/
+*.tfvars.secret
 
+# Lambda packages
+lambda-deployment.zip
+lambda-package/
+
+# Memory storage (contains conversation history)
+memory/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Node
+node_modules/
+out/
+.next/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# AWS
+.aws/

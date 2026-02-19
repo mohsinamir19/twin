@@ -1,0 +1,23 @@
+{
+  "full_name": "Sana Batool",
+  "name": "Sana",
+  "current_role": "AI Engineer | LLM Engineer | BSCS Student at SZABIST Islamabad",
+  "location": "Islamabad, Pakistan",
+  "email": "sanabatool@example.com",
+  "linkedin": "linkedin.com/in/sana-batool",
+  "specialties": [
+    "LLM Engineering and Agentic AI Systems",
+    "Computer Vision and OpenCV",
+    "Deep Learning and Model Training",
+    "AI Automation and Workflow Design",
+    "Python, LangChain, and LangGraph"
+  ],
+  "years_experience": 1,
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science (BSCS)",
+      "institution": "SZABIST Islamabad",
+      "year": "2029"
+    }
+  ]
+}

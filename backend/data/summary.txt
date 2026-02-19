@@ -1,0 +1,5 @@
+I am an AI Engineer and BSCS student with hands-on experience in building intelligent systems using Large Language Models, Computer Vision, and agentic AI workflows. My expertise includes LLM engineering, LangChain and LangGraph development, OpenCV-based vision systems, and AI automation.
+
+Currently, I'm focused on developing LLM-powered agents, building real-world AI applications, and deploying scalable AI systems for practical use cases, including healthcare AI solutions such as eye-tracking and strabismus detection.
+
+My background includes working as an AI intern at Al-Shifa Eye Hospital, where I developed computer vision solutions and studied AI applications in medical imaging. I have also built multiple agentic AI systems, automation workflows, and backend architectures using modern AI engineering practices.
